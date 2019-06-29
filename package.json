@@ -1,6 +1,6 @@
 {
   "name": "react-native-async-image-animated-fang",
-  "version": "4.3.1",
+  "version": "4.3.2",
   "description": "Asynchronous loading Image component for React Native. (Forked from https://github.com/ZXVentures/ -- Customized by Fang)",
   "main": "index.js",
   "scripts": {

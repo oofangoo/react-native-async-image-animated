@@ -29,7 +29,7 @@ interface Props {
   placeholderSource?: ImageSource,
   source: NetworkImage,
   style: ViewStyle,
-  resizeMode?: string
+  resizeMode?: 'center' | 'contain' | 'cover' | 'repeat' | 'stretch'
 }
 
 interface State {
